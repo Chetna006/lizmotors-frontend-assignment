@@ -1,0 +1,3 @@
+Author: Chetna Patil
+
+GitHub Link: https://github.com/Chetna006/lizmotors-frontend-assignment
